@@ -41,7 +41,7 @@ I had experience at a lot of fields as Android, Arduino, Raspberry pi, SolidWork
 - ❓ Ask me about anything related to Django and embedded systems  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="250" width="500" />  
 
 </td></tr></table>  
