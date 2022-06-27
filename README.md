@@ -1,4 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="250" width="500" />  
   
 
 ## Hey 👋, I'm Kareem sakkary!  
@@ -28,6 +27,7 @@ I had experience at a lot of fields as Android, Arduino, Raspberry pi, SolidWork
 
 <br/>  
 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="250" width="500" />  
 
 ## Rapidfire  
 - 🔭 I’m currently working at Mahatech  
