@@ -1,4 +1,5 @@
   
+  
 
 ## Hey 👋, I'm Kareem sakkary!  
   
@@ -29,6 +30,8 @@ I had experience at a lot of fields as Android, Arduino, Raspberry pi, SolidWork
 
 
 ## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
 - 🔭 I’m currently working at Mahatech  
   
 
@@ -36,11 +39,15 @@ I had experience at a lot of fields as Android, Arduino, Raspberry pi, SolidWork
   
 
 - ❓ Ask me about anything related to Django and embedded systems  
-  
+
+
+</td><td valign="top" width="50%">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="250" width="500" />  
+
+</td></tr></table>  
 
 <br/>  
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="250" width="500" />  
 
 ## Languages and Tools  
 <div align="center">  
